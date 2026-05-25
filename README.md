@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Salim Shrestha</h1>
-<h3 align="center">Frontend developer from Nepal building web and Android experiences.</h3>
+<h3 align="center">Developer from Nepal building web apps, Python tools, and practical dashboards.</h3>
 
 <p align="center">
   <a href="https://ssalim.com.np">Portfolio</a> |
@@ -20,13 +20,20 @@
 
 ## About Me
 
-- I am currently working on a second-hand device marketplace.
-- I am learning and building with React.
-- I am open to collaborating on React and frontend projects.
-- Ask me about React, Android, JavaScript, and UI implementation.
+- I build practical software projects with Python, Flask, JavaScript, and React.
+- I am currently improving projects around fraud detection, desktop productivity tools, and web interfaces.
+- I am open to collaborating on React, Flask, and Python application projects.
+- Ask me about frontend development, Flask dashboards, Android, and UI implementation.
 - My projects are available at [ssalim.com.np](https://ssalim.com.np).
 - I write articles at [salimshrestha.com.np](https://salimshrestha.com.np).
 - Reach me at [salim9shrestha@gmail.com](mailto:salim9shrestha@gmail.com).
+
+## Featured Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Credit Card Fraud Detector](https://github.com/salimshre/credit-card-fraud-detector) | Flask dashboard for credit-card fraud monitoring with transaction scoring, alerts, analyst review, CSV batch scanning, and model retraining. | Python, Flask, pandas, NumPy, scikit-learn |
+| [SaTi](https://github.com/salimshre/saTi) | Cross-platform desktop alarm clock with alarms, countdown timers, stopwatches, floating mini windows, and local JSON storage. | Python, tkinter, platformdirs, pytest |
 
 ## Tech Stack
 
@@ -39,6 +46,12 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
   </a>
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
@@ -66,8 +79,9 @@
 ## Focus Areas
 
 - Frontend interfaces with React, JavaScript, HTML, and CSS.
-- Android app development and mobile-first user experiences.
-- Practical web products, dashboards, and portfolio projects.
+- Python web apps, dashboards, and automation tools.
+- Machine-learning demo apps with clear workflows and usable interfaces.
+- Desktop utility apps with local persistence and simple packaging.
 - Clean UI, responsive layouts, and maintainable project structure.
 
 ## Connect With Me
@@ -93,15 +107,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimshre&show_icons=true&locale=en&hide_border=true" alt="Salim Shrestha GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimshre&theme=github" alt="GitHub stats for salimshre" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salimshre&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salimshre&theme=github" alt="Top languages by repository for salimshre" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salimshre&theme=github" alt="Top languages by commit for salimshre" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimshre&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=salimshre&hide_border=true" alt="GitHub contribution streak for salimshre" />
 </p>
 
 ## Blog Posts
