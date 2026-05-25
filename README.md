@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://ssalim.com.np">Portfolio</a> |
   <a href="https://salimshrestha.com.np">Blog</a> |
+  <a href="https://ssanu.com.np">Blog</a> |
   <a href="mailto:salim9shrestha@gmail.com">Email</a> |
   <a href="https://linkedin.com/in/salimshrestha">LinkedIn</a>
 </p>
