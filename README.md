@@ -34,7 +34,10 @@ I build practical software with Python, Flask, JavaScript, and React. My work fo
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Credit Card Fraud Detector](https://github.com/salimshre/credit-card-fraud-detector) | Flask dashboard for credit-card fraud monitoring with transaction scoring, alerts, analyst review, CSV batch scanning, and model retraining. | Python, Flask, pandas, NumPy, scikit-learn |
+| [React Portfolio](https://github.com/salimshre/react-portfolio) | Single-page portfolio with animated role text, live GitHub profile data, project sections, dark mode, smooth navigation, and responsive layout. | React, Vite, Tailwind CSS, GitHub API |
 | [SaTi](https://github.com/salimshre/saTi) | Cross-platform desktop alarm clock with alarms, countdown timers, stopwatches, floating mini windows, and local JSON storage. | Python, tkinter, platformdirs, pytest |
+| [WordPress Journal](https://github.com/salimshre/wordpress-journal) | Local WordPress development setup for a personal blog with Docker, MySQL, phpMyAdmin, WP-CLI scripts, starter content, and deployment documentation. | WordPress, Docker, MySQL, PHP, WP-CLI |
+| [Journal](https://github.com/salimshre/journal) | Organized personal journal and planning archive with yearly folders, schedules, checklists, mind maps, and file organization rules. | Markdown, DOCX, PDF, XLSX, FreeMind |
 
 ## What I Work On
 
