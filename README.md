@@ -5,12 +5,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Salim Shrestha</h1>
-<h3 align="center">Developer from Nepal building web apps, Python tools, and practical dashboards.</h3>
+<h3 align="center">Developer from Nepal building web apps, Python tools, dashboards, and practical interfaces.</h3>
 
 <p align="center">
   <a href="https://ssalim.com.np">Portfolio</a> |
   <a href="https://salimshrestha.com.np">Blog</a> |
-  <a href="https://ssanu.com.np">Blog</a> |
   <a href="mailto:salim9shrestha@gmail.com">Email</a> |
   <a href="https://linkedin.com/in/salimshrestha">LinkedIn</a>
 </p>
@@ -21,13 +20,14 @@
 
 ## About Me
 
-- I build practical software projects with Python, Flask, JavaScript, and React.
-- I am currently improving projects around fraud detection, desktop productivity tools, and web interfaces.
-- I am open to collaborating on React, Flask, and Python application projects.
-- Ask me about frontend development, Flask dashboards, Android, and UI implementation.
-- My projects are available at [ssalim.com.np](https://ssalim.com.np).
-- I write articles at [salimshrestha.com.np](https://salimshrestha.com.np).
-- Reach me at [salim9shrestha@gmail.com](mailto:salim9shrestha@gmail.com).
+I build practical software with Python, Flask, JavaScript, and React. My work focuses on clean interfaces, useful workflows, and projects that solve real problems instead of only demonstrating syntax.
+
+- Currently improving projects around fraud detection, desktop productivity tools, and responsive web interfaces.
+- Open to collaboration on React, Flask, Python, dashboard, and automation projects.
+- Comfortable with frontend development, Flask dashboards, Android basics, UI implementation, and project documentation.
+- Portfolio: [ssalim.com.np](https://ssalim.com.np)
+- Blog: [salimshrestha.com.np](https://salimshrestha.com.np)
+- Email: [salim9shrestha@gmail.com](mailto:salim9shrestha@gmail.com)
 
 ## Featured Projects
 
@@ -35,6 +35,14 @@
 | --- | --- | --- |
 | [Credit Card Fraud Detector](https://github.com/salimshre/credit-card-fraud-detector) | Flask dashboard for credit-card fraud monitoring with transaction scoring, alerts, analyst review, CSV batch scanning, and model retraining. | Python, Flask, pandas, NumPy, scikit-learn |
 | [SaTi](https://github.com/salimshre/saTi) | Cross-platform desktop alarm clock with alarms, countdown timers, stopwatches, floating mini windows, and local JSON storage. | Python, tkinter, platformdirs, pytest |
+
+## What I Work On
+
+- Frontend interfaces with React, JavaScript, HTML, and CSS.
+- Python web apps, dashboards, and automation tools.
+- Machine-learning demo apps with understandable workflows and usable interfaces.
+- Desktop utility apps with local persistence and simple packaging.
+- Clean UI, responsive layouts, and maintainable project structure.
 
 ## Tech Stack
 
@@ -77,14 +85,6 @@
   </a>
 </p>
 
-## Focus Areas
-
-- Frontend interfaces with React, JavaScript, HTML, and CSS.
-- Python web apps, dashboards, and automation tools.
-- Machine-learning demo apps with clear workflows and usable interfaces.
-- Desktop utility apps with local persistence and simple packaging.
-- Clean UI, responsive layouts, and maintainable project structure.
-
 ## Connect With Me
 
 <p align="left">
@@ -108,7 +108,12 @@
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salimshre&theme=github" alt="GitHub profile summary for salimshre" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salimshre&theme=github" alt="GitHub stats for salimshre" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salimshre&theme=github&utcOffset=5.75" alt="Most productive coding time for salimshre" />
 </p>
 
 <p align="center">
@@ -120,7 +125,7 @@
   <img src="https://streak-stats.demolab.com?user=salimshre&hide_border=true" alt="GitHub contribution streak for salimshre" />
 </p>
 
-## Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
